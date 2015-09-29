@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
     public sealed class DelegatedCommand : ICommand
     {

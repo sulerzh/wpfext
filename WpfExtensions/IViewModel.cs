@@ -1,7 +1,7 @@
-﻿using Microsoft.Data.Visualization.VisualizationCommon;
+﻿using Semantic.WpfCommon;
 using System.ComponentModel;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   public interface IViewModel : ICompositeProperty, INotifyPropertyChanged, INotifyPropertyChanging, IDescendentPropertyChanged, IDescendentPropertyChanging, IValidationElement
   {

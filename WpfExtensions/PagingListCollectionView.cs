@@ -5,7 +5,7 @@ using System.ComponentModel;
 using System.Windows.Data;
 using System.Windows.Input;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   public class PagingListCollectionView : ListCollectionView
   {

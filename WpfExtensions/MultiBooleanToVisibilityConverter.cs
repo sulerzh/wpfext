@@ -5,7 +5,7 @@ using System.Linq;
 using System.Windows;
 using System.Windows.Data;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   public class MultiBooleanToVisibilityConverter : IMultiValueConverter
   {

@@ -2,7 +2,7 @@
 using System.Security.Permissions;
 using System.Windows.Threading;
 
-namespace Microsoft.Data.Visualization.VisualizationCommon
+namespace Semantic.WpfCommon
 {
     public static class DispatcherExtensions
     {

@@ -6,12 +6,12 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{B7DB4CF5-202A-4218-B42A-B7F9AECF7A36}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <AssemblyName>WpfExtensions</AssemblyName>
+    <AssemblyName>Semantic.WpfExtensions</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetFrameworkProfile />
     <ApplicationVersion>16.0.0.0</ApplicationVersion>
     <FileAlignment>512</FileAlignment>
-    <RootNamespace>Microsoft.Data.Visualization.WpfExtensions</RootNamespace>
+    <RootNamespace>Semantic.WpfExtensions</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -185,9 +185,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\VisualizationCommon\VisualizationCommon.csproj">
+    <ProjectReference Include="..\VisualizationCommon\WpfCommon.csproj">
       <Project>{6b90f178-fdd7-4c53-8051-bac67826abcd}</Project>
-      <Name>VisualizationCommon</Name>
+      <Name>WpfCommon</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

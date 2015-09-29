@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using System.Windows;
 using System.Windows.Interop;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
     public static class WindowCustomizer
     {

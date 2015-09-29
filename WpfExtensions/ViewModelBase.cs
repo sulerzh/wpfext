@@ -1,8 +1,8 @@
-﻿using Microsoft.Data.Visualization.VisualizationCommon;
+﻿using Semantic.WpfCommon;
 using System.ComponentModel;
 using System.Reflection;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
     public abstract class ViewModelBase : ValidationElement, IViewModel, ICompositeProperty, INotifyPropertyChanged, INotifyPropertyChanging, IDescendentPropertyChanged, IDescendentPropertyChanging, IValidationElement
     {

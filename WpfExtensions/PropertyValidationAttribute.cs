@@ -1,8 +1,8 @@
-﻿using Microsoft.Data.Visualization.VisualizationCommon;
+﻿using Semantic.WpfCommon;
 using System;
 using System.Reflection;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   [AttributeUsage(AttributeTargets.Property, AllowMultiple = true)]
   public abstract class PropertyValidationAttribute : ResourceStringAttribute, IPropertyValidationAttribute, IResourceString, IValidationRule

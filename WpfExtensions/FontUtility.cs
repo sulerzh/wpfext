@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Windows.Media;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   public static class FontUtility
   {

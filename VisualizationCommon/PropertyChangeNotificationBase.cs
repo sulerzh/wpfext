@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel;
 
-namespace Microsoft.Data.Visualization.VisualizationCommon
+namespace Semantic.WpfCommon
 {
   public abstract class PropertyChangeNotificationBase : PropertyChangedNotificationBase, INotifyPropertyChanges, INotifyPropertyChanged, INotifyPropertyChanging
   {

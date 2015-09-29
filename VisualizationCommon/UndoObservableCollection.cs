@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Microsoft.Data.Visualization.VisualizationCommon
+namespace Semantic.WpfCommon
 {
   public class UndoObservableCollection<T> : ObservableCollectionEx<T>
   {

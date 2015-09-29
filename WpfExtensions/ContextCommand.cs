@@ -1,7 +1,7 @@
-﻿using Microsoft.Data.Visualization.VisualizationCommon;
+﻿using Semantic.WpfCommon;
 using System.Windows.Input;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   public class ContextCommand : PropertyChangeNotificationBase
   {

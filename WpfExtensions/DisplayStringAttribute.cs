@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   [AttributeUsage(AttributeTargets.Field)]
   public class DisplayStringAttribute : Attribute

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Microsoft.Data.Visualization.VisualizationCommon
+namespace Semantic.WpfCommon
 {
     public class WeakEventListener<TInstance> where TInstance : class
     {

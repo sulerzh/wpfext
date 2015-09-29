@@ -1,6 +1,6 @@
-﻿using Microsoft.Data.Visualization.VisualizationCommon;
+﻿using Semantic.WpfCommon;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   public sealed class ExcludeEnumAttribute : PropertyValidationAttribute
   {

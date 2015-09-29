@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Microsoft.Data.Visualization.VisualizationCommon
+namespace Semantic.WpfCommon
 {
   public class ConcurrentValueBase<T>
   {

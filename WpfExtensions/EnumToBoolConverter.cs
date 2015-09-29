@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Data;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
     [ValueConversion(typeof(bool), typeof(Enum))]
     public class EnumToBoolConverter : IValueConverter

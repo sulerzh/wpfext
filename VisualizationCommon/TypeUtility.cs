@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Microsoft.Data.Visualization.VisualizationCommon
+namespace Semantic.WpfCommon
 {
   public static class TypeUtility
   {

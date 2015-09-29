@@ -1,4 +1,4 @@
-﻿namespace Microsoft.Data.Visualization.WpfExtensions
+﻿namespace Semantic.WpfExtensions
 {
     public interface IDragHandler
     {

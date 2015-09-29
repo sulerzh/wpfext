@@ -1,6 +1,6 @@
 ﻿using System.Collections.ObjectModel;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   public interface IDropItemsHandler : IDropHandler
   {

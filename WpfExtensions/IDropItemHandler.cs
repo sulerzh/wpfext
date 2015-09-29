@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   public interface IDropItemHandler : IDropHandler
   {

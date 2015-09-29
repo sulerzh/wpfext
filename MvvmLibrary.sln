@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualizationCommon", "VisualizationCommon\VisualizationCommon.csproj", "{6B90F178-FDD7-4C53-8051-BAC67826ABCD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCommon", "VisualizationCommon\WpfCommon.csproj", "{6B90F178-FDD7-4C53-8051-BAC67826ABCD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExtensions", "WpfExtensions\WpfExtensions.csproj", "{B7DB4CF5-202A-4218-B42A-B7F9AECF7A36}"
 EndProject

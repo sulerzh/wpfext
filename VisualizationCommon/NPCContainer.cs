@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Microsoft.Data.Visualization.VisualizationCommon
+namespace Semantic.WpfCommon
 {
   public class NPCContainer<T> : PropertyChangeNotificationBase where T : INotifyPropertyChanged
   {

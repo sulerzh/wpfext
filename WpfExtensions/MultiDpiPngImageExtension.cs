@@ -4,7 +4,7 @@ using System.Windows.Markup;
 using System.Windows.Media.Imaging;
 using System.Xaml;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   public class MultiDpiPngImageExtension : MarkupExtension
   {

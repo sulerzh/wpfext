@@ -5,7 +5,7 @@ using System.Collections.ObjectModel;
 using System.Collections.Specialized;
 using System.ComponentModel;
 
-namespace Microsoft.Data.Visualization.VisualizationCommon
+namespace Semantic.WpfCommon
 {
     public delegate void ObservableCollectionExChangedHandler<T>(T item);
     public delegate void ObservableCollectionExItemChangedHandler<T>(T item, PropertyChangedEventArgs e);

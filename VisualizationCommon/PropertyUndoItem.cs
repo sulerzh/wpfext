@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Reflection;
 
-namespace Microsoft.Data.Visualization.VisualizationCommon
+namespace Semantic.WpfCommon
 {
   public class PropertyUndoItem<TProp, TTarget> : UndoItem where TTarget : PropertyChangeNotificationBase
   {

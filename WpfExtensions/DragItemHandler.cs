@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   public class DragItemHandler<T> : DragHandler<T>, IDragItemHandler<T>, IDragItemHandler, IDragHandler
   {

@@ -3,7 +3,7 @@ using System.Reflection;
 using System.Resources;
 using System.Threading;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   [AttributeUsage(AttributeTargets.Property)]
   public abstract class ResourceStringAttribute : Attribute, IResourceString

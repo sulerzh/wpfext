@@ -2,7 +2,7 @@
 using System.Windows.Documents;
 using System.Windows.Media;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   public class InsertionAdorner : Adorner
   {

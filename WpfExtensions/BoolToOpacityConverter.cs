@@ -1,6 +1,6 @@
 ﻿using System.Windows.Data;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   [ValueConversion(typeof (bool), typeof (double))]
   public class BoolToOpacityConverter : BoolToValueConverter<double>

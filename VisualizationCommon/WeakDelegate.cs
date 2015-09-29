@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Microsoft.Data.Visualization.VisualizationCommon
+namespace Semantic.WpfCommon
 {
     public class WeakDelegate<TInstance, TReturn> where TInstance : class
     {

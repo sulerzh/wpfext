@@ -1,10 +1,10 @@
-﻿using Microsoft.Data.Visualization.VisualizationCommon;
+﻿using Semantic.WpfCommon;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
     public abstract class ValidationElement : CompositePropertyChangeNotificationBase, IDataErrorInfo, IValidationElement
     {

@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Data;
 
-namespace Microsoft.Data.Visualization.WpfExtensions
+namespace Semantic.WpfExtensions
 {
   [ValueConversion(typeof (bool), typeof (Visibility))]
   public class BoolToVisibilityConverter : BoolToValueConverter<Visibility>

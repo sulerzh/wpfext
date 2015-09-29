@@ -1,4 +1,4 @@
-﻿namespace Microsoft.Data.Visualization.VisualizationCommon
+﻿namespace Semantic.WpfCommon
 {
   public delegate void InternalErrorEventHandler(object sender, InternalErrorEventArgs e);
 }

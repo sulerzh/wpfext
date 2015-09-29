@@ -1,4 +1,4 @@
-﻿namespace Microsoft.Data.Visualization.WpfExtensions
+﻿namespace Semantic.WpfExtensions
 {
   public delegate T Getter<T>();
 }
