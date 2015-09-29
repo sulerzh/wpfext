@@ -9,8 +9,8 @@
     <projectUrl>https://github.com/sulerzh/wpfext.git</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>wpf base common function.</releaseNotes>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
     <copyright>Copyright 2015</copyright>
-    <tags>MVVN COMMON</tags>
+    <tags>wpf base</tags>
   </metadata>
 </package>

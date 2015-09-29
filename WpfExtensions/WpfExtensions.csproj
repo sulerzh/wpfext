@@ -185,7 +185,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\VisualizationCommon\WpfCommon.csproj">
+    <ProjectReference Include="..\WpfCommon\WpfCommon.csproj">
       <Project>{6b90f178-fdd7-4c53-8051-bac67826abcd}</Project>
       <Name>WpfCommon</Name>
     </ProjectReference>

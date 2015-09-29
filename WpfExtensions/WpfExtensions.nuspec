@@ -9,8 +9,8 @@
     <projectUrl>https://github.com/sulerzh/wpfext.git</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>mvvm light library and wpf extensions,such as in-application drag and drop,etc.</releaseNotes>
+    <releaseNotes>mvvm light library and wpf extensions,such as in-application drag and drop,etc .</releaseNotes>
     <copyright>Copyright 2015</copyright>
-    <tags>WpfExtensions MVVM</tags>
+    <tags>mvvm wpf</tags>
   </metadata>
 </package>

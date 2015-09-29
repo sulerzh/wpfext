@@ -8,6 +8,6 @@ using System.Security;
 [assembly: CLSCompliant(false)]
 [assembly: ComVisible(false)]
 [assembly: AssemblyTitle("WpfExtensions")]
-[assembly: AssemblyDescription("Wpf MVVM library")]
+[assembly: AssemblyDescription("Wpf MVVM library  1.0.3230.1001")]
 [assembly: AssemblyFileVersion("1.0.3230.1001")]
-[assembly: AssemblyVersion("1.0")]
+[assembly: AssemblyVersion("1.0.3.0")]
