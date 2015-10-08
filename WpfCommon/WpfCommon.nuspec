@@ -9,7 +9,7 @@
     <projectUrl>https://github.com/sulerzh/wpfext.git</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <releaseNotes>wrapper of wpf property changed notification base.</releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>wpf base</tags>
   </metadata>
